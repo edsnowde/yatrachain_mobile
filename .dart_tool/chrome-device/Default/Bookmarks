@@ -1,0 +1,820 @@
+{
+   "checksum": "1d2930025dc608575e3f3789e750e0db",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13391963251502287",
+               "date_last_used": "0",
+               "guid": "fc088167-d0d2-42d1-8442-34dffafbb5e0",
+               "id": "3",
+               "name": "Lenovo Support",
+               "type": "url",
+               "url": "http://support.lenovo.com/"
+            }, {
+               "date_added": "13391963251512765",
+               "date_last_used": "0",
+               "guid": "e3a49e90-a113-43db-acf4-4a6f48bc8116",
+               "id": "4",
+               "name": "Lenovo",
+               "type": "url",
+               "url": "http://www.lenovo.com/"
+            } ],
+            "date_added": "13402704792872065",
+            "date_last_used": "0",
+            "date_modified": "13402704802853983",
+            "guid": "35a3442f-2e48-4512-9d4b-23be80d70db7",
+            "id": "2",
+            "name": "Lenovo",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13293092732618227",
+               "date_last_used": "0",
+               "guid": "d34ce952-97ff-40df-aea9-6edb14c0297f",
+               "id": "6",
+               "name": "How Much Marks Do NDA Exam Toppers Score",
+               "type": "url",
+               "url": "https://ssbcrackexams.com/how-much-marks-do-nda-exam-toppers-score/"
+            }, {
+               "date_added": "13293092917813743",
+               "date_last_used": "0",
+               "guid": "8fe70e68-9c92-467c-9fcc-a102bf45aff7",
+               "id": "7",
+               "name": "UPSC NDA 2 Exam Analysis 2021 Maths out; Questions on Trigonometry tricky, overall moderate",
+               "type": "url",
+               "url": "https://news.careers360.com/nda-2-2021-exam-analysis-maths-out-questions-on-trigonometry-tricky-overall-moderate"
+            }, {
+               "date_added": "13293093927202654",
+               "date_last_used": "0",
+               "guid": "6bb502d4-c9af-4850-99b1-e8604c530f3d",
+               "id": "8",
+               "name": "SSBCrackExams - India's No.1 Learning Platform For Defence Aspirants",
+               "type": "url",
+               "url": "https://ssbcrackexams.com/"
+            }, {
+               "date_added": "13293094287869715",
+               "date_last_used": "0",
+               "guid": "98da6e5b-b871-4fb2-90da-2d2b8b907c37",
+               "id": "9",
+               "name": "UPSC NDA II 2021: Know how to score 450+ marks in exam | Jobs News,The Indian Express",
+               "type": "url",
+               "url": "https://indianexpress.com/article/jobs/nda-2-2021-know-how-to-target-for-450-marks-7359718/"
+            }, {
+               "date_added": "13293309539978168",
+               "date_last_used": "0",
+               "guid": "ad0fad8b-fd08-44d0-bc7c-0b4059912fa6",
+               "id": "10",
+               "name": "How To Prepare For Ssb Interview? Ssb Interview Procedure, Preparation Tips",
+               "type": "url",
+               "url": "https://www.safalta.com/blog/how-to-prepare-for-ssb-interview"
+            }, {
+               "date_added": "13293309613895306",
+               "date_last_used": "0",
+               "guid": "96334304-4b44-493a-85df-ce9b924dd09c",
+               "id": "11",
+               "name": "NDA Syllabus 2022: Download UPSC NDA/NA Syllabus PDF Here",
+               "type": "url",
+               "url": "https://www.shiksha.com/exams/nda-exam-syllabus"
+            }, {
+               "date_added": "13293309622597787",
+               "date_last_used": "0",
+               "guid": "9d3f8306-0552-46ca-a524-c3a75a563095",
+               "id": "12",
+               "name": "How To Score 150+ Marks In NDA English Section",
+               "type": "url",
+               "url": "https://ssbcrackexams.com/score-more-marks-in-nda-english-section/"
+            }, {
+               "date_added": "13293309631994353",
+               "date_last_used": "0",
+               "guid": "37bb7412-18fa-48a5-af7c-ea923d05b3b7",
+               "id": "13",
+               "name": "NDA 2022 Preparation Tips, How to Prepare for NDA Entrance Exam",
+               "type": "url",
+               "url": "https://www.sarvgyan.com/articles/how-to-prepare-for-nda"
+            }, {
+               "date_added": "13293309636614338",
+               "date_last_used": "0",
+               "guid": "a3380da8-0efe-4aa0-b07d-5cfffe2ddc21",
+               "id": "14",
+               "name": "If NDA written exam scored 600 and SSB interview score 100 I am selected to NDA",
+               "type": "url",
+               "url": "https://www.careers360.com/question-if-nda-written-exam-scored-600-and-ssb-interview-score-100-i-am-selected-to-nda"
+            }, {
+               "date_added": "13293309657500795",
+               "date_last_used": "0",
+               "guid": "f5475a12-b845-4947-8d84-42049973c50e",
+               "id": "15",
+               "name": "Top 8 NDA Preparation Tips for Class 12 Students",
+               "type": "url",
+               "url": "https://www.jagranjosh.com/articles/nda-preparation-for-class-12-students-1542366600-1"
+            }, {
+               "date_added": "13293309661760622",
+               "date_last_used": "0",
+               "guid": "39803625-5e09-433e-9257-053eed7e31ac",
+               "id": "16",
+               "name": "NDA Syllabus 2022 and Exam Pattern for NDA 1 & 2 Exam",
+               "type": "url",
+               "url": "https://www.careerpower.in/nda-syllabus.html"
+            }, {
+               "date_added": "13293309667485093",
+               "date_last_used": "0",
+               "guid": "f8ca89d6-1609-4efc-b541-cfadae1e3150",
+               "id": "17",
+               "name": "NDA Exam 2022: Admit Card, Syllabus, Exam Date, Application | Leverage Edu",
+               "type": "url",
+               "url": "https://leverageedu.com/blog/nda-exam/"
+            }, {
+               "date_added": "13293309671470530",
+               "date_last_used": "0",
+               "guid": "2580114d-4795-4e66-b596-28f6b6b2fa8b",
+               "id": "18",
+               "name": "NDA Books 2022 – Best Books for NDA Exam Preparation",
+               "type": "url",
+               "url": "https://nvshq.org/exam-preparation/nda-books/"
+            }, {
+               "date_added": "13293401813163357",
+               "date_last_used": "0",
+               "guid": "7837ebf9-d59c-4da8-8c63-672bf7a46e0d",
+               "id": "19",
+               "name": "best nda and ssb coaching in india - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=best+nda+and+ssb+coaching+in+india&sxsrf=APq-WBtxFgVer5r5E-rSI26FBhH2EwcyyA%3A1648928015415&source=hp&ei=D6VIYr-9F5ePseMPg5ePkAo&iflsig=AHkkrS4AAAAAYkizHyBAGmyjvYWexY9-V_l_8GFWU5QV&oq=best+coaching+NDA+and&gs_lcp=Cgdnd3Mtd2l6EAEYATIGCAAQFhAeMgYIABAWEB46BAgjECc6CwgAEIAEELEDEIMBOg4ILhCABBCxAxCDARDUAjoLCC4QgAQQsQMQgwE6CAgAEIAEELEDOggILhCxAxCDAToFCAAQgAQ6CAgAELEDEIMBOgUILhCABDoICC4QgAQQsQM6CwgAEIAEELEDEMkDOgUIABCSAzoLCC4QgAQQsQMQ1AI6CAgAEIAEEMkDOgUIIRCgAVAAWIqvAWClxAFoAnAAeACAAdIBiAGuKJIBBzEwLjI4LjGYAQCgAQE&sclient=gws-wiz"
+            }, {
+               "date_added": "13293824143351499",
+               "date_last_used": "0",
+               "guid": "7b4d4fd3-1197-4a31-93e2-4bec60685cc1",
+               "id": "20",
+               "name": "gradeup nda - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?sxsrf=APq-WBsKLxa-t4ds57GCwKmD53nPpNUOxA:1649350525582&q=gradeup+nda&spell=1&sa=X&ved=2ahUKEwjk0r_BtYL3AhVOUWwGHccBAfAQirwEKAB6BAgCEDI&biw=1536&bih=746&dpr=1.25"
+            }, {
+               "date_added": "13293824176654214",
+               "date_last_used": "0",
+               "guid": "2da86a67-0418-4105-bfbc-dc28388d8041",
+               "id": "21",
+               "name": "NDA 2022 Preparation Tips, How to Prepare for NDA 1 & 2 Entrance Exam",
+               "type": "url",
+               "url": "https://www.shiksha.com/exams/nda-exam-preparation"
+            }, {
+               "date_added": "13293824558841721",
+               "date_last_used": "0",
+               "guid": "6e8c4a42-92f4-4cf3-a0ea-89037f559dbd",
+               "id": "22",
+               "name": "which is the best YouTube channel for NDA exam???",
+               "type": "url",
+               "url": "https://www.careers360.com/question-which-is-the-best-youtube-channel-for-nda-exam"
+            }, {
+               "date_added": "13293826836472172",
+               "date_last_used": "0",
+               "guid": "21f95ac7-66b7-4ca4-ba9f-c68b999822a4",
+               "id": "23",
+               "name": "Indian Express Newspaper of Today",
+               "type": "url",
+               "url": "https://www.sarkarieducations.in/2022/02/indian-express-newspaper-of-today.html"
+            }, {
+               "date_added": "13293826844061767",
+               "date_last_used": "0",
+               "guid": "2758d373-a4d3-4448-9d66-2aa3df91bfd5",
+               "id": "24",
+               "name": "Latest News, India News, Breaking News, Today's News Headlines Online, English News Top Stories, Sri Lanka Crisis, IPL 2022 Updates|The Indian Express",
+               "type": "url",
+               "url": "https://indianexpress.com/"
+            }, {
+               "date_added": "13302357458201928",
+               "date_last_used": "0",
+               "guid": "eb7518dd-8114-4fd7-be7a-2f95597e5f46",
+               "id": "25",
+               "name": "7 Tips to Prepare & Crack CDS 2022 Exam with Good Marks",
+               "type": "url",
+               "url": "https://byjusexamprep.com/how-to-prepare-for-cds-exam-i"
+            }, {
+               "date_added": "13302357563311011",
+               "date_last_used": "0",
+               "guid": "3f4af484-6b6f-4d20-90b7-a63957b83b56",
+               "id": "26",
+               "name": "Top 8 NDA, CDS, AFCAT and SSB Online Coaching Resources",
+               "type": "url",
+               "url": "https://www.exambazaar.com/blogpost/top-8-nda-cds-afcat-and-ssb-online-coaching-resources"
+            }, {
+               "date_added": "13302357867245560",
+               "date_last_used": "0",
+               "guid": "b57a705e-5da2-498e-8f26-f9e61ed40ca4",
+               "id": "27",
+               "name": "Is SSB sure shot academy a good institute for training? - Quora",
+               "type": "url",
+               "url": "https://www.quora.com/Is-SSB-sure-shot-academy-a-good-institute-for-training"
+            }, {
+               "date_added": "13302357872025210",
+               "date_last_used": "0",
+               "guid": "b9b4dafe-ebf0-47aa-8f8c-eeb51165338b",
+               "id": "28",
+               "name": "The 10 Best CDS Coaching in Bangalore: Reviews, Course Fees, Offers",
+               "type": "url",
+               "url": "https://www.exambazaar.com/upsc-cds-coaching/bangalore"
+            }, {
+               "date_added": "13302358239246247",
+               "date_last_used": "0",
+               "guid": "6378c4f6-efe1-43e6-827d-6f34d1630f47",
+               "id": "29",
+               "name": "best cds coaching in bangalore - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=best+cds+coaching+in+bangalore&sxsrf=ALiCzsZhqQWJo_KzFIOI-Oi5yDd7QXQ9_Q%3A1657883638396&source=hp&ei=9kvRYt24Fa6NseMPgIWUoA8&iflsig=AJiK0e8AAAAAYtFaBhnjMzBTzAuRO5ZGNgcknKGnvvnn&oq=best+CDS+&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCAAQgAQyBQgAEIAEMgsILhCABBDHARCvATIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyCwguEIAEEMcBEK8BMgUIABCABDIFCAAQgAQ6BAgjECc6BAguECc6CwgAEIAEELEDEIMBOggIABCxAxCDAToRCC4QgAQQsQMQgwEQxwEQ0QM6CAgAEIAEELEDOhEILhCABBCxAxCDARDHARCvAToHCCMQ6gIQJzoOCC4QgAQQsQMQxwEQ0QM6BQguEIAEOgsILhCABBCxAxCDAToICC4QgAQQ1AI6CwguEIAEELEDENQCOgUILhCxAzoICAAQgAQQyQM6BQgAEJIDOgUIABCxA1AAWP5OYI9saARwAHgAgAGkAYgB3AmSAQQxMC4zmAEAoAEBsAEK&sclient=gws-wiz"
+            } ],
+            "date_added": "13293092755559875",
+            "date_last_used": "0",
+            "date_modified": "13302358239246247",
+            "guid": "265e71cc-ce27-410e-8270-d6299a807761",
+            "id": "5",
+            "name": "army",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13312488643745242",
+               "date_last_used": "0",
+               "guid": "61f76164-455d-4a89-a012-eb3b099fe18a",
+               "id": "31",
+               "name": "Dayananda Sagar Institutions",
+               "type": "url",
+               "url": "https://ums.mydsi.org/StudentPanel/StudentDashboard.aspx"
+            } ],
+            "date_added": "13312488663352766",
+            "date_last_used": "0",
+            "date_modified": "13312488663352766",
+            "guid": "c8725e34-3981-47e5-b7ad-7772f773d7d4",
+            "id": "30",
+            "name": "dSU",
+            "type": "folder"
+         }, {
+            "date_added": "13313255858522523",
+            "date_last_used": "0",
+            "guid": "9869dcc4-949b-4509-b232-5bef80d05770",
+            "id": "32",
+            "name": "(2) New Messages!",
+            "type": "url",
+            "url": "https://www.movies-watch.com.pk/"
+         }, {
+            "children": [ {
+               "date_added": "13340860768373995",
+               "date_last_used": "0",
+               "guid": "9ce0d98c-ce8a-48e9-853d-bc434dba4cac",
+               "id": "34",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Z-Library – the world’s largest e-book library. Your gateway to knowledge and culture.",
+               "type": "url",
+               "url": "https://zlibrary-asia.se/"
+            } ],
+            "date_added": "13340860785785219",
+            "date_last_used": "0",
+            "date_modified": "13340860785785219",
+            "guid": "45d4fe70-70ba-4cdc-85c7-35a0a2da3814",
+            "id": "33",
+            "name": "books",
+            "type": "folder"
+         }, {
+            "date_added": "13341220996587451",
+            "date_last_used": "13400084972386301",
+            "guid": "03021f8b-a3a7-4789-9d67-6e3e38667c29",
+            "id": "35",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "bwsajala.karnataka.gov.in/EODB/Home.aspx",
+            "type": "url",
+            "url": "https://bwsajala.karnataka.gov.in/EODB/Home.aspx"
+         }, {
+            "children": [ {
+               "date_added": "13341865091949635",
+               "date_last_used": "0",
+               "guid": "19e5d37f-bc1f-4401-a9c3-b5f9a3c96ded",
+               "id": "37",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Welcome to HDFC Bank NetBanking",
+               "type": "url",
+               "url": "https://netbanking.hdfcbank.com/netbanking/"
+            } ],
+            "date_added": "13341865120908497",
+            "date_last_used": "0",
+            "date_modified": "13341865120908497",
+            "guid": "e9753c61-59b7-4d2f-9c1a-46f4e9240dca",
+            "id": "36",
+            "name": "imp",
+            "type": "folder"
+         }, {
+            "date_added": "12986350910000000",
+            "date_last_used": "13399913877459311",
+            "guid": "5a014c1c-c96c-498c-bbab-536401c75dde",
+            "id": "38",
+            "name": "Google",
+            "type": "url",
+            "url": "http://www.google.ae/"
+         }, {
+            "date_added": "12998826659000000",
+            "date_last_used": "0",
+            "guid": "355e9732-d715-4693-af10-b3979178edd4",
+            "id": "39",
+            "name": "http://www2.clubpenguin.com/exit/ is not available",
+            "type": "url",
+            "url": "http://www2.clubpenguin.com/exit/"
+         }, {
+            "date_added": "12998996315000000",
+            "date_last_used": "0",
+            "guid": "cbaab260-3a77-4f40-9665-899347fa6dae",
+            "id": "40",
+            "name": "Allgameshome - web search results",
+            "type": "url",
+            "url": "http://home.allgameshome.com/results.php?s=club+penguin&category=web&start=1"
+         }, {
+            "date_added": "12999096156000000",
+            "date_last_used": "0",
+            "guid": "399f8fe4-af14-4713-9302-4e500d163d7c",
+            "id": "41",
+            "name": "www.clubpenguincheats/codes.com - Google Search",
+            "type": "url",
+            "url": "http://www.google.ae/#hl=en&newwindow=1&sclient=psy-ab&q=www.clubpenguincheats%2Fcodes.com&oq=www.clubpenguinccodes.com&gs_l=hp.1.1.0i13j0i7i30j0i8i7i30l2.0.0.6.1128.0.0.0.0.0.0.0.0..0.0.les%3B..0.0...1c.CPHKchhHj4k&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&fp=85fc723a4599f62d&bpcl=39580677&biw=1366&bih=667"
+         }, {
+            "date_added": "12999100217000000",
+            "date_last_used": "0",
+            "guid": "4493f085-5a72-4da0-a0ff-93ea997424c2",
+            "id": "42",
+            "name": "www.clubpenguincheat.com club penguin cheats - Google Search",
+            "type": "url",
+            "url": "http://www.google.ae/#hl=en&newwindow=1&sclient=psy-ab&q=www.clubpenguincheat.com+club+penguin+cheats&oq=www.clubpenguinche.com&gs_l=hp.1.1.0i13l2j0i7i30l2.12333.21689.3.26231.3.3.0.0.0.0.241.636.0j1j2.3.0.les%3B..0.0...1c.1.WyksXIurQm8&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&fp=85fc723a4599f62d&bpcl=39580677&biw=1366&bih=667"
+         }, {
+            "date_added": "12999281553000000",
+            "date_last_used": "0",
+            "guid": "b0e0d342-64a9-4b9d-8569-90434dc278cb",
+            "id": "43",
+            "name": "www.wikipedia.org - Google Search",
+            "type": "url",
+            "url": "http://www.google.ae/search?q=www.wik&rlz=1C1GGGE_enAE454AE455&oq=www.wik&sugexp=chrome,mod=0&sourceid=chrome&ie=UTF-8#hl=en&newwindow=1&rlz=1C1GGGE_enAE454AE455&spell=1&q=www.wikipedia.org&sa=X&ei=g7rAUNm9GsbbyQHKi4HIAw&ved=0CBwQvwUoAA&bav=on.2,or.r_gc.r_pw.r_qf.&fp=3f00dbdf4e88dbb9&bpcl=39650382&biw=1366&bih=667"
+         }, {
+            "date_added": "13000499891000000",
+            "date_last_used": "0",
+            "guid": "ae059717-4336-409d-990c-6b4a3094efdf",
+            "id": "44",
+            "name": "Banana Monkey Game - Free Online Monkey Games - Crazy Monkey Games",
+            "type": "url",
+            "url": "http://www.dailyfreegames.com/flash/arcade-games/banana-monkey-game.html"
+         }, {
+            "date_added": "13000693960000000",
+            "date_last_used": "0",
+            "guid": "4b1ac06a-e674-4703-ab21-2562bd3e2e62",
+            "id": "45",
+            "name": "Babylon Search",
+            "type": "url",
+            "url": "http://mystart.incredibar.com/MB206?a=6PQTimELGx"
+         }, {
+            "date_added": "13001863492000000",
+            "date_last_used": "0",
+            "guid": "0c6abaec-f2a1-431c-b06c-b175624c071a",
+            "id": "46",
+            "name": "Google Accounts",
+            "type": "url",
+            "url": "http://www.google.com/accounts/Logout2?hl=en&ilo=1&ils=mail%2Cs.AE&ilc=0&continue=http%3A%2F%2Fwww.google.ae%2F%23q%3Dshah%2Bjahan%26hl%3Den%26newwindow%3D1%26biw%3D1366%26bih%3D667&zx=-155280596"
+         }, {
+            "date_added": "13007730324000000",
+            "date_last_used": "0",
+            "guid": "3a6e7ae9-caa8-4334-aa36-961c7d20ffa1",
+            "id": "47",
+            "name": "http://www.beatiwatani.com/ is not available",
+            "type": "url",
+            "url": "http://www.beatiwatani.com/"
+         }, {
+            "date_added": "13011975663000000",
+            "date_last_used": "0",
+            "guid": "e8bc0fd5-c309-4c2a-85df-c04ef023ae51",
+            "id": "48",
+            "name": "Friv : ONLY THE VERY BEST FREE ONLINE GAMES!",
+            "type": "url",
+            "url": "http://www.friv.com/"
+         }, {
+            "date_added": "13012314614000000",
+            "date_last_used": "0",
+            "guid": "6d5af0bf-b1d2-4a90-8921-e1d5f2bba1bf",
+            "id": "49",
+            "name": "Login | The KW Zone - Kidzworld",
+            "type": "url",
+            "url": "http://www.kidzworld.com/login"
+         }, {
+            "date_added": "13012323761000000",
+            "date_last_used": "0",
+            "guid": "3fa29437-6bca-4cea-b59a-299f0c15d64b",
+            "id": "50",
+            "name": "CPPS.me - World's #1 Club Penguin Private Server",
+            "type": "url",
+            "url": "http://secure.cpps.me/cpps.cgi"
+         }, {
+            "date_added": "13012323767000000",
+            "date_last_used": "0",
+            "guid": "885cc3fb-0a2f-410e-a906-53753f687646",
+            "id": "51",
+            "name": "cid special bureau - Google Search",
+            "type": "url",
+            "url": "https://www.google.ae/#hl=en&gs_rn=12&gs_ri=psy-ab&tok=xGEK0yQOiiTxV9LIiR0xvA&cp=6&gs_id=1a&xhr=t&q=cid+special+bureau&es_nrs=true&pf=p&newwindow=1&output=search&sclient=psy-ab&oq=cid+sp&gs_l=&pbx=1&bav=on.2,or.r_cp.r_qf.&bvm=bv.45960087,d.bmk&fp=668f97ff342c78aa&biw=1517&bih=693"
+         }, {
+            "date_added": "13013025748000000",
+            "date_last_used": "0",
+            "guid": "50f42ca7-05ab-4bf6-988e-8b39553dc8f4",
+            "id": "52",
+            "name": "Chasing The Sun (Ice Age : Continental Drift Version) - YouTube",
+            "type": "url",
+            "url": "http://www.youtube.com/watch?v=ZIyYMjI-xFg"
+         }, {
+            "date_added": "13015623552000000",
+            "date_last_used": "0",
+            "guid": "aaf446bf-83e4-4e2a-a389-6f542c1e9d52",
+            "id": "53",
+            "name": "isoHunt › the BitTorrent & P2P search engine",
+            "type": "url",
+            "url": "http://isohunt.com/"
+         }, {
+            "date_added": "13015632937000000",
+            "date_last_used": "0",
+            "guid": "c8e54644-f944-43d5-8b30-56a3ac2fb7e1",
+            "id": "54",
+            "name": "Totaljerkface.com - Home Of Happy Wheels - Happy Wheels Full Version",
+            "type": "url",
+            "url": "http://www.totaljerkface.com/happy_wheels.php"
+         }, {
+            "date_added": "13015772993000000",
+            "date_last_used": "0",
+            "guid": "afb6efa2-88b7-4113-9709-759aa5d9ff91",
+            "id": "55",
+            "name": "Saudis in Audis - YouTube",
+            "type": "url",
+            "url": "http://www.youtube.com/watch?v=lqJDuZIcQ34"
+         }, {
+            "date_added": "13015944073000000",
+            "date_last_used": "0",
+            "guid": "7331380c-1172-44df-98c4-58c60a8eda65",
+            "id": "56",
+            "name": "New York Taxi License - Free Online Games (FOG.COM)",
+            "type": "url",
+            "url": "http://www.freeonlinegames.com/game/new-york-taxi-license"
+         }, {
+            "date_added": "13015946719000000",
+            "date_last_used": "0",
+            "guid": "acd8d93d-641e-4923-a994-28f9921128e9",
+            "id": "57",
+            "name": "Racing Games - Free Games - Free Online Games On Box10",
+            "type": "url",
+            "url": "http://www.box10.com/racing-games.html?utm_source=brandedgames&utm_medium=miniboatracers&utm_url=http://www.freeonlinegames.com/games/22180/game.swf?1332428681"
+         }, {
+            "date_added": "13015948394000000",
+            "date_last_used": "0",
+            "guid": "c101348d-f668-4df2-908f-d2f00d13b695",
+            "id": "58",
+            "name": "Neon Rider World - Free Games - Free Online Games On Box10",
+            "type": "url",
+            "url": "http://www.box10.com/neon-rider-world.html"
+         }, {
+            "date_added": "13016746321000000",
+            "date_last_used": "0",
+            "guid": "cc11e368-cc40-4f25-bfdc-c06e2b42b3f7",
+            "id": "59",
+            "name": "Fifth Grade Math",
+            "type": "url",
+            "url": "http://www.adaptedmind.com/gradelist.php"
+         }, {
+            "date_added": "13016747339000000",
+            "date_last_used": "0",
+            "guid": "0edb87df-d02f-4562-8490-87c26d204376",
+            "id": "60",
+            "name": "CBSE Study Material - NCERT Solutions - ICSE Study Material - CBSE Sample Papers - Online Test Papers",
+            "type": "url",
+            "url": "http://www.meritnation.com/#"
+         }, {
+            "date_added": "13016747549000000",
+            "date_last_used": "0",
+            "guid": "0bb12c85-1af2-40b8-ac44-c7884a4216f8",
+            "id": "61",
+            "name": "Thatmathquiz.com",
+            "type": "url",
+            "url": "http://thatmathquiz.com/"
+         }, {
+            "date_added": "13018142291000000",
+            "date_last_used": "0",
+            "guid": "516bc6a6-2807-46f5-8ad8-8078f524a5e5",
+            "id": "62",
+            "name": "new york taxi license 2 - Google Search",
+            "type": "url",
+            "url": "http://www.google.ae/#newwindow=1&sclient=psy-ab&q=new+york+taxi+license+2&oq=new+york+ta&gs_l=hp.1.2.0l4.9566.11993.1.15608.3.1.2.0.0.0.173.173.0j1.1.0...0.0.0..1c.1.17.psy-ab.L2r2R-GcIFo&pbx=1&bav=on.2,or.r_qf.&bvm=bv.48705608,d.bGE&fp=c4c44b6fbf4bf761&biw=1366&bih=667"
+         }, {
+            "date_added": "13018145987000000",
+            "date_last_used": "13393842939780440",
+            "guid": "7499f6eb-675b-4875-9dc3-8773decddae4",
+            "id": "63",
+            "name": "New York Taxi License 3D | Games | Free Online Games @ Gamezhero.com",
+            "type": "url",
+            "url": "http://www.gamezhero.com/games/newyorktaxilicense3d"
+         }, {
+            "date_added": "13018193258000000",
+            "date_last_used": "0",
+            "guid": "143db2d9-12d5-4096-8fe7-073723902c8d",
+            "id": "64",
+            "name": "Ramazan Ki Fazeelat By Mulana Tariq Jameel Sahab -11th july 2013 - YouTube",
+            "type": "url",
+            "url": "http://www.youtube.com/watch?v=fDMmyAFWVx4"
+         }, {
+            "date_added": "13018199584000000",
+            "date_last_used": "0",
+            "guid": "39c2be7b-7b1f-4936-a552-85ead4f9a365",
+            "id": "65",
+            "name": "Playing Iron Man 3 Games",
+            "type": "url",
+            "url": "http://www.nowgamez.com/Friv/2458/iron-man-3-games"
+         }, {
+            "date_added": "13018199587000000",
+            "date_last_used": "0",
+            "guid": "550c205f-0b8e-4388-8386-fe0d5c287c37",
+            "id": "66",
+            "name": "FullNix » 3D Turbo Speed",
+            "type": "url",
+            "url": "http://fullnix.com/3d-turbo-speed/"
+         }, {
+            "date_added": "13018229158000000",
+            "date_last_used": "0",
+            "guid": "de87768c-a1d1-4638-8e03-f32e69dbd34c",
+            "id": "67",
+            "name": "Adaalat - Episode 27 - 21st May 2011 - YouTube",
+            "type": "url",
+            "url": "http://www.youtube.com/watch?v=ilEMsGIG31E"
+         }, {
+            "date_added": "13018280188000000",
+            "date_last_used": "0",
+            "guid": "28829a0f-1883-4808-a992-d78bdf08297d",
+            "id": "68",
+            "name": "Be'ati Watani",
+            "type": "url",
+            "url": "http://course.beatiwatani.com/english/html/nav.html"
+         }, {
+            "date_added": "13018307105000000",
+            "date_last_used": "0",
+            "guid": "9f2a216d-d13b-48f9-b3ba-3d46569b3d53",
+            "id": "69",
+            "name": "The Case of the Dead Doctor - P 1/2 - Episode 173 - YouTube",
+            "type": "url",
+            "url": "http://www.youtube.com/watch?v=5TK5yR5Ld3Y"
+         }, {
+            "date_added": "13018373813000000",
+            "date_last_used": "0",
+            "guid": "ad00f75e-1dc0-460d-89a3-432676d5a5b2",
+            "id": "70",
+            "name": "School Bus License 3 - Free Online Games (FOG.COM)",
+            "type": "url",
+            "url": "http://www.freeonlinegames.com/en/game/school-bus-license-3/?utm_source=related_games"
+         }, {
+            "date_added": "13022858860000000",
+            "date_last_used": "0",
+            "guid": "aa506522-a9bc-4bc5-8c9c-c12c94a9a33c",
+            "id": "71",
+            "name": "▶ Shararat - Episode 155 - YouTube",
+            "type": "url",
+            "url": "http://www.youtube.com/watch?v=Si84PlKsM9I"
+         }, {
+            "date_added": "13022955425000000",
+            "date_last_used": "0",
+            "guid": "68826984-02f6-4d35-acd0-d37ca8313395",
+            "id": "72",
+            "name": "Maulana Tariq Jameel New bayan 01,september 2013 Copenhagen 2 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=81Xz5tjEQ4E"
+         }, {
+            "date_added": "13151442846000000",
+            "date_last_used": "0",
+            "guid": "43193a8b-9d50-49db-a4e2-61192454f8bd",
+            "id": "73",
+            "name": "AQAD - ASSET Question A Day",
+            "type": "url",
+            "url": "http://www.aqad.in/index.php"
+         }, {
+            "date_added": "13278772374000000",
+            "date_last_used": "0",
+            "guid": "01378f86-8293-43ef-814c-96422ac11600",
+            "id": "74",
+            "name": "Pancake Recipe, How to Make Pancake with Condensed Milk - Milkmaid",
+            "type": "url",
+            "url": "https://www.milkmaid.in/recipes/pancake"
+         }, {
+            "date_added": "13278772888000000",
+            "date_last_used": "0",
+            "guid": "df54d1b0-258a-4c52-82d2-41c55009b508",
+            "id": "75",
+            "name": "Deeksha",
+            "type": "url",
+            "url": "https://deeksha.linkstreet.in/"
+         } ],
+         "date_added": "13402704789085003",
+         "date_last_used": "0",
+         "date_modified": "13341220996587451",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13153104178000000",
+               "date_last_used": "0",
+               "guid": "c8f69e73-1e87-4a13-bf25-9e2b27a4f4b9",
+               "id": "78",
+               "name": "Log into Facebook | Facebook",
+               "type": "url",
+               "url": "https://m.facebook.com/login/?ref=dbl&fl&refid=9"
+            }, {
+               "date_added": "13157217104000000",
+               "date_last_used": "0",
+               "guid": "85a5668e-45a4-4da7-8c4d-39e2e746ba63",
+               "id": "79",
+               "name": "Putlocker - Watch HD Movies Online & TV Shows and Watch Series",
+               "type": "url",
+               "url": "http://putlockers.fm/"
+            }, {
+               "date_added": "13166834342000000",
+               "date_last_used": "0",
+               "guid": "87731765-f1e5-49fa-8927-3f8e3a8e0eb6",
+               "id": "80",
+               "name": "Partners 29th March 2018 Full Episode 88 - Video",
+               "type": "url",
+               "url": "http://inontv.net/watch-video-partners-29th-march-2018-full-episode-88/"
+            }, {
+               "date_added": "13169246399000000",
+               "date_last_used": "0",
+               "guid": "7085162b-1060-460f-b31f-b604e612a5ed",
+               "id": "81",
+               "name": "CBSE Study Material - NCERT Solutions - ICSE Study Material - CBSE Sample Papers - Online Test Papers",
+               "type": "url",
+               "url": "https://m.meritnation.com/"
+            }, {
+               "date_added": "13171127619000000",
+               "date_last_used": "0",
+               "guid": "c2a450cf-4dd7-4f58-88f8-99c566507a9f",
+               "id": "82",
+               "name": "Ishqbaaz Watch All Dramas Online Episodes",
+               "type": "url",
+               "url": "http://naamkarantv.com/"
+            }, {
+               "date_added": "13171214109000000",
+               "date_last_used": "0",
+               "guid": "8c256697-36e5-4d3b-a59c-b7c2e6399aa4",
+               "id": "83",
+               "name": "SoundSport® in-ear headphones—Apple devices",
+               "type": "url",
+               "url": "https://www.bose.ae/en_ae/products/headphones/earphones/soundsport-in-ear-headphones-apple-devices.html#v=soundsport_ie_headphones_ii_apple_neon_blue"
+            }, {
+               "date_added": "13171231100000000",
+               "date_last_used": "0",
+               "guid": "f49cfa3d-970a-46d3-8efa-9d8b5d4952f2",
+               "id": "84",
+               "name": "Hesh 3 Wireless - Skullcandy",
+               "type": "url",
+               "url": "https://www.skullcandy.in/en/headphones/HESH3.html"
+            }, {
+               "date_added": "13173947952000000",
+               "date_last_used": "0",
+               "guid": "42f9c57c-0e68-4dd8-a5d9-9ff54d6f426f",
+               "id": "85",
+               "name": "Best wireless Bluetooth earbuds and in-ear headphones to buy right now (June 2018)",
+               "type": "url",
+               "url": "https://www.phonearena.com/news/Best-wireless-headphones-earbuds-in-ear-earphones-June-2018_id101516"
+            }, {
+               "date_added": "13180040230000000",
+               "date_last_used": "0",
+               "guid": "bd02a128-3121-480c-8d8b-9a70bf103014",
+               "id": "86",
+               "name": "MP3Juices - Free MP3 Downloads",
+               "type": "url",
+               "url": "https://www.mp3juices.cc/"
+            }, {
+               "date_added": "13184087444000000",
+               "date_last_used": "0",
+               "guid": "8642335b-386e-4ea2-8165-e3208bb93d24",
+               "id": "87",
+               "name": "UA49NU8000K | UA49NU8000KXXL | Samsung IN",
+               "type": "url",
+               "url": "https://www.samsung.com/in/tvs/uhdtv-nu8000/UA49NU8000KXXL/"
+            }, {
+               "date_added": "13185050318000000",
+               "date_last_used": "0",
+               "guid": "34f131d0-1f7b-42ce-aef8-f5b6a3e148a8",
+               "id": "88",
+               "name": "hp 650 ink cartridge printer - Google Search",
+               "type": "url",
+               "url": "https://www.google.co.in/search?q=hp+650+ink+cartridge+printer&oq=hp+650+ink+cartridge+printer&aqs=chrome..69i57.1350j0j7&client=ms-android-samsung&sourceid=chrome-mobile&ie=UTF-8"
+            }, {
+               "date_added": "13187687723000000",
+               "date_last_used": "0",
+               "guid": "79bec8c5-9e2f-4e48-8d50-f652f6a77e2f",
+               "id": "89",
+               "name": "PutLocker | Watch Online Movies Free on Putlocker tv, Putlockers",
+               "type": "url",
+               "url": "https://www6.putlockertv.to/"
+            }, {
+               "date_added": "13192065785000000",
+               "date_last_used": "0",
+               "guid": "d0f7507e-283a-497b-879b-b5b02c0f3928",
+               "id": "90",
+               "name": "SonyLIV",
+               "type": "url",
+               "url": "https://www.sonyliv.com/listing/reco_asset_based_default?queryParams=assetTitle%3DWatch%20More%20Episodes%26assetType%3DEpisodes%26rails%3Drecommendation%26item_id%3D4857058593001%26rail_id%3Drec5c14cb8fbc6d589a0ddbff5%26template%3Dlandscape"
+            }, {
+               "date_added": "13231520061000000",
+               "date_last_used": "0",
+               "guid": "ee6cd8b0-db47-4614-8903-20d8bf047061",
+               "id": "91",
+               "name": "PutLocker - Watch Free Movies Online on Putlockers in FULL HD Quality",
+               "type": "url",
+               "url": "https://www.putlockers.cr/"
+            }, {
+               "date_added": "13231520135000000",
+               "date_last_used": "0",
+               "guid": "a9443f05-bb08-4f14-8761-66ec2a70a7cb",
+               "id": "92",
+               "name": "FshareTV - new Movies",
+               "type": "url",
+               "url": "https://fsharetv.co/category/new?year=2020"
+            }, {
+               "date_added": "13231890624000000",
+               "date_last_used": "0",
+               "guid": "1610532a-c3fa-4390-b0c3-a520be9249da",
+               "id": "93",
+               "name": "Watch Free Movies Online And Stream Free HD Movies - TinyZone",
+               "type": "url",
+               "url": "https://www1.tinyzone.tv/"
+            }, {
+               "date_added": "13251144029000000",
+               "date_last_used": "0",
+               "guid": "7c5d77f3-f2d2-419a-8766-f52def5ac1bd",
+               "id": "94",
+               "name": "✅mp3juices ▷ Free Music Downloads Mp3 ▷ Download Songs MOBILE\u003C",
+               "type": "url",
+               "url": "https://www.mp3juices.site/"
+            }, {
+               "date_added": "13251145290000000",
+               "date_last_used": "0",
+               "guid": "2fb5112e-a5be-40e7-b93a-d7e25c033ff3",
+               "id": "95",
+               "name": "Bonum Cibum Menu, Menu for Bonum Cibum, HSR, Bangalore",
+               "type": "url",
+               "url": "https://www.zomato.com/bangalore/bonum-cibum-hsr-bangalore/menu"
+            }, {
+               "date_added": "13251145297000000",
+               "date_last_used": "0",
+               "guid": "acb0df2e-212a-4b14-a62b-73a79d0b1c15",
+               "id": "96",
+               "name": "Sign in | Samsung Account",
+               "type": "url",
+               "url": "https://account.samsung.com/accounts/v1/FMM2/signInGate?locale=en_GB&state=2457562295&goBackURL=https:%2F%2Ffindmymobile.samsung.com&redirect_uri=https:%2F%2Ffindmymobile.samsung.com%2Flogin.do&response_type=code&client_id=ntly6zvfpn&acr_values=urn:samsungaccount:acr:basic"
+            }, {
+               "date_added": "13264696360000000",
+               "date_last_used": "0",
+               "guid": "cf478467-738b-4ec4-950e-02b85434d44a",
+               "id": "97",
+               "name": "Medical Courses after 12th without NEET - Times of India",
+               "type": "url",
+               "url": "https://m.timesofindia.com/home/education/news/medical-courses-after-12th-without-neet/amp_articleshow/82381006.cms"
+            } ],
+            "date_added": "13391963925939283",
+            "date_last_used": "0",
+            "date_modified": "13391963925939283",
+            "guid": "9c6b121c-e4b9-4930-acab-074a6e15accb",
+            "id": "77",
+            "name": "Synced Bookmarks",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13391963925944807",
+            "date_last_used": "0",
+            "date_modified": "13391963925944807",
+            "guid": "92431b06-64ec-47e5-a4cd-251338338433",
+            "id": "98",
+            "name": "Other Bookmarks",
+            "type": "folder"
+         } ],
+         "date_added": "13402704789085003",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "76",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13402704789085003",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "99",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
