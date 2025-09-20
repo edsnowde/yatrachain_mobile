@@ -1,10 +1,10 @@
 class ApiKeys {
   // Google Maps API Key
   static const String googleMapsApiKey =
-      'AIzaSyAtVGe4aum8ILVMg_n-oMEjQmvs1JkclTQ';
+      'enter your google maps key';
 
   // Gemini AI API Key
-  static const String geminiApiKey = 'AIzaSyDQhh6LEacIgSLg_z_NijyRBaZhJencXng';
+  static const String geminiApiKey = 'enter your gemini key';
 
   // Instructions for getting API keys:
 
